@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="90" height="50"/>
   </a>
   <a href="https://plotly.com/" target="_blank">
-    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="90" height="50"/>
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="50" height="50"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
     <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="70" height="50"/>
