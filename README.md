@@ -34,7 +34,7 @@
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="90" height="50"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Google_Sheets_Icon_%282018%29.svg/1200px-Google_Sheets_Icon_%282018%29.svg.png" alt="Google Sheets" width="90" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Sheets_logo_%282018-2020%29.svg" alt="Google Sheets" width="90" height="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="50"/>
@@ -43,7 +43,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="90" height="50"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tableau_Logo.svg/2560px-Tableau_Logo.svg.png" alt="Tableau" width="90" height="50"/>
+    <img src="https://www.tableau.com/sites/default/files/2021-09/tableau_logo_color.png" alt="Tableau" width="90" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="90" height="50"/>
@@ -59,4 +59,5 @@
   </a>
 </p>
 <hr>
+
 
