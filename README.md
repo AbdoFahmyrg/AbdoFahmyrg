@@ -8,6 +8,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Abdulrahman+Fahmy+.;I+am+a+Data+Analysis+.;and+my+interests+include+%5BPython+%2C+Statics+%2C" alt="Typing SVG" /></a>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -32,7 +33,7 @@
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="90" height="50"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_Forms_logo.svg/1024px-Google_Forms_logo.svg.png" alt="Google Sheets" width="90" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Google_Sheets_logo_%282014-2020%29.svg/1024px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width="90" height="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="50"/>
@@ -54,5 +55,3 @@
   </a>
 </p>
 <hr>
-
-
