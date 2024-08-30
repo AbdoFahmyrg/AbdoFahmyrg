@@ -43,7 +43,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="90" height="50"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://download.logo.wine/logo/Tableau_Software/Tableau_Software-Logo.wine.png" alt="Tableau" width="90" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tableau_Logo.svg/2560px-Tableau_Logo.svg.png" alt="Tableau" width="90" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="90" height="50"/>
