@@ -17,17 +17,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Languages and Tools</title>
     <style>
+        .tools {
+            display: flex;
+            flex-wrap: wrap; /* يسمح بانتقال الأيقونات إلى السطر التالي إذا لزم الأمر */
+            align-items: center; /* محاذاة الأيقونات عمودياً */
+            gap: 20px; /* المسافة بين الأيقونات */
+        }
         .tools img {
             width: 60px; /* تعديل حجم الأيقونات */
             height: 40px; /* تعديل حجم الأيقونات */
-            margin-right: 15px; /* زيادة المسافة بين الأيقونات */
-            margin-bottom: 10px; /* زيادة المسافة بين الأسطر */
         }
     </style>
 </head>
 <body>
     <h3 align="left">Languages and Tools:</h3>
-    <p class="tools" align="left">
+    <div class="tools">
         <a href="https://www.python.org/" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
         </a>
@@ -73,7 +77,7 @@
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL"/>
         </a>
-    </p>
+    </div>
     <hr>
 </body>
 </html>
