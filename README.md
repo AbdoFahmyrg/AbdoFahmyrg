@@ -19,7 +19,7 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="130" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="90" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Plotly-logo.png/600px-Plotly-logo.png" alt="Plotly" width="90" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png" alt="Google Sheets" width="90" height="50"/>
+  <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="90" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="90" height="50"/>
   <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="90" height="50"/>
