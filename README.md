@@ -16,14 +16,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="90" height="50"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="130" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="90" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Plotly-logo.png/600px-Plotly-logo.png" alt="Plotly" width="90" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Google_Sheets_logo.svg/1200px-Google_Sheets_logo.svg.png" alt="Google Sheets" width="90" height="50"/>
+  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/dist/logo.png" alt="Plotly" width="90" height="50"/>
+  <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="90" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="90" height="50"/>
-  <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" width="90" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="90" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="Tableau" width="90" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="90" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="90" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="90" height="50"/>
 </p>
 <hr>
+
 
