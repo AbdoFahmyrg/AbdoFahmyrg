@@ -18,8 +18,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="90" height="50"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="130" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="90" height="50"/>
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="90" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Google_Sheets_logo_%282014-2020%29.svg/1024px-Google_Sheets_logo_%282014-2020%29.svg.png" alt="Google Sheets" width="90" height="50"/>
+  <img src="https://raw.githubusercontent.com/plotly/plotly.js/master/dist/logo.png" alt="Plotly" width="90" height="50"/>
+  <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="90" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="90" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="Tableau" width="90" height="50"/>
