@@ -34,7 +34,7 @@
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="90" height="50"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
-    <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="90" height="50"/>
+    <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="70" height="50"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="90" height="50"/>
