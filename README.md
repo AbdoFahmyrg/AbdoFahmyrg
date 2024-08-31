@@ -37,7 +37,7 @@
     <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1024px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="50" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1024px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="45" height="50"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
     <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="50" height="50"/>
