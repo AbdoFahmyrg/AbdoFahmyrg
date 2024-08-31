@@ -25,13 +25,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="110" height="50"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="110" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
   <a href="https://plotly.com/" target="_blank">
-    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="40" height="40"/>
+    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="30" height="30"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank">
     <img src="https://www.gstatic.com/images/branding/product/2x/sheets_48dp.png" alt="Google Sheets" width="40" height="40"/>
