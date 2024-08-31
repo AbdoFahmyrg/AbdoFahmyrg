@@ -22,10 +22,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 50px;"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 25px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 50px;"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="110" height="50" style="margin-right: 25px;"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="110" height="50" style="margin-right: 50px;"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" style="margin-right: 25px;"/>
