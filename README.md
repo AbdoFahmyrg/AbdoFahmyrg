@@ -13,13 +13,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 25px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 50px;"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin-right: 25px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin-right: 50px;"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 25px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 50px;"/>
   </a>
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 25px;"/>
