@@ -17,19 +17,19 @@
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/>
   </a>
-  <span style="margin: 0 50px;">    </span>
+  <span style="margin: 0 50px;">  ..  </span>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
-  <span style="margin: 0 20px;"> </span>
+  <span style="margin: 0 20px;">.. </span>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="110" height="50"/>
   </a>
-  <span style="margin: 0 20px;"> </span>
+  <span style="margin: 0 20px;"> ..</span>
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
   </a>
-  <span style="margin: 0 20px;"> </span>
+  <span style="margin: 0 20px;"> ..</span>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
