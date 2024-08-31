@@ -9,7 +9,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Abdulrahman+Fahmy+.;I+am+a+Data+Analysis+.;and+my+interests+include+%5BPython+%2C+Statics+%2C" alt="Typing SVG" /></a>
 
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 40px;">
   <a href="https://www.python.org/" target="_blank">
