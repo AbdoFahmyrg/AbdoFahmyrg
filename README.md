@@ -7,11 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdo-fahmy-a65332244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/AbdoFahmyrg/AbdoFahmyrg/blob/main/Abdulrahman%20Fahmy%20Raghp.pdf"><img src="https://img.shields.io/badge/Download_CV-14B8A6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
-  <!-- Add your portfolio link here once it's live:
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  -->
 </p>
 
 ---
@@ -21,8 +17,7 @@
 - 📊 Data Analyst who cleans, explores and visualizes data to find what drives the numbers
 - 🛠️ I build interactive dashboards in **Power BI**, **Tableau** and **Excel**, and do analysis in **SQL** and **Python**
 - 🎯 Focus areas: sales performance, HR attrition, customer churn, inventory and operations
-- 🌱 Currently learning: _add what you're learning now (e.g. DAX, statistics, machine learning)_
-- 📫 Open to Data Analyst roles and freelance projects — reach me on LinkedIn or email
+- 📫 Open to Data Analyst roles and freelance projects — reach me on LinkedIn
 
 ---
 
@@ -65,11 +60,10 @@
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdoFahmyrg&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoFahmyrg&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+  <img src="/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center"><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
