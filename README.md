@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abdo-fahmy-a65332244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/AbdoFahmyrg/AbdoFahmyrg/blob/main/Abdulrahman%20Fahmy%20Raghp.pdf"><img src="https://img.shields.io/badge/Download_CV-14B8A6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
+  <a href="https://abdulrahmanfrg.abdelahman13.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
