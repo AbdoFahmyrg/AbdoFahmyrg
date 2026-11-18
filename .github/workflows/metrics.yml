@@ -41,11 +41,6 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
 
-          # Achievements badges
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
           # Uncomment when your portfolio is live to show its PageSpeed scores:
           # plugin_pagespeed: yes
           # plugin_pagespeed_url: https://YOUR-PORTFOLIO-URL
