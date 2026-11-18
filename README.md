@@ -13,12 +13,21 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=microsoftsqlserver&logoColor=2dd4bf"/>
   <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/R-161b22?style=flat-square&logo=r&logoColor=2dd4bf"/>
   <img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Matplotlib-161b22?style=flat-square&logo=python&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Seaborn-161b22?style=flat-square&logo=python&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Plotly-161b22?style=flat-square&logo=plotly&logoColor=2dd4bf"/>
+  <br>
   <img src="https://img.shields.io/badge/Power_BI-161b22?style=flat-square&logo=powerbi&logoColor=2dd4bf"/>
   <img src="https://img.shields.io/badge/Tableau-161b22?style=flat-square&logo=tableau&logoColor=2dd4bf"/>
   <img src="https://img.shields.io/badge/Excel-161b22?style=flat-square&logo=microsoftexcel&logoColor=2dd4bf"/>
-  <img src="https://img.shields.io/badge/R-161b22?style=flat-square&logo=r&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-161b22?style=flat-square&logo=googlesheets&logoColor=2dd4bf"/>
   <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=2dd4bf"/>
+  <img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=2dd4bf"/>
 </p>
 
 <br>
